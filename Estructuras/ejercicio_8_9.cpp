@@ -128,5 +128,4 @@ int main() {
         cout<<"Numero de goles del goleador: "<<futbol[i].numGoles<<endl;
         cout<<endl;
       }
-  
   }
