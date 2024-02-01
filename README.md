@@ -1,3 +1,3 @@
-# Programacion_Avanzada
+# PROGRAMACION AVANZADA
 Repositorio talleres de programacion avanzada. 
-Cuenta con dos carpetas (subdirectorios) de ejercicios sobre arreglos y estructuras.
+- Cuenta con dos carpetas (subdirectorios) de ejercicios sobre arreglos y estructuras.
