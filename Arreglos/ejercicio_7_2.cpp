@@ -12,7 +12,7 @@ int main() {
   for (int i=0; i<n; i++){
     cout<<array1[i]<<" ";
   }
-
+  
   cout<<endl;
   cout<<"Arreglo 2 (inverso): ";
   /*Invierte datos e imprime arreglo final*/
