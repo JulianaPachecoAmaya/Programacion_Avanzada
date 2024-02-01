@@ -25,7 +25,7 @@ int main() {
             contador++;
           }
       num++;
-        }
+     }
 
   /*Imprime arreglo*/
   for(int i=0;i<80;i++){
